@@ -1,0 +1,33 @@
+{
+  "name": "node-ts",
+  "version": "1.0.0",
+  "description": "Typescript complier",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nts": "nts.ts"
+  },
+  "author": "B",
+  "license": "MIT ",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.1",
+    "tsx": "^3.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Communities-by-Bcommunity/node.ts.git"
+  },
+  "keywords": [
+    "complied"
+  ],
+  "bugs": {
+    "url": "https://github.com/Communities-by-Bcommunity/node.ts/issues"
+  },
+  "homepage": "https://github.com/Communities-by-Bcommunity/node.ts#readme"
+}
